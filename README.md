@@ -12,8 +12,6 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro.
-- :telescope: I’m working as a Software Engineer in e-invoices.online.
-- :zap: In my free time, I like to watch movies or play games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-dedeic-1b9193224/?trk=people-guest_people_search-card&originalSubdomain=me)
 <br/>
