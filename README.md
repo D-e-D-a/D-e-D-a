@@ -33,19 +33,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <br/>
 <hr>
 
-### :fire: My Stats :
-<div>
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=D-e-D-a&theme=hacker&mode=weekly" /></a>
-  <hr>
-  
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=D-e-D-a&theme=gotham&show_icons=true&count_private=true)
-  
-<hr>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-e-D-a&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-</div>
 
 
 
